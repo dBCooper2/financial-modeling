@@ -10,4 +10,7 @@ This is an update to the old repository, dBI(https://github.com/dBCooper2/dBI) t
 - Create Visualizations in Python after processing the data
 - Track Equities in a User's Watchlist and Portfolio by interfacing with the Schwab/TD Ameritrade API
 
-## More Info coming soon...
+## Deliverables
+
+- Jupyter Notebooks containing my processes for collecting the data from their sources, processing the data in python, and exporting the data to SQL
+- Scripts taking the code from the Jupyter Notebooks that can be run from the terminal
