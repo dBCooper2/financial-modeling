@@ -14,7 +14,7 @@ def get_account_data(path: str)->dict: # Gets api key, account_number, redirect_
 # ak: str = API Key
 # ru: str = Redirect URI
 # tp: str = Token Path(path/to/token.json)
-def connect_to_api(ak: str, ru: str, tp: str)->tda.Client: 
+def connect_to_api(ak: str, ru: str, tp: str)->tda.client.Client: 
     try:
         c = a.client_from_token_file(tp, ak)
     except FileNotFoundError:
@@ -22,12 +22,27 @@ def connect_to_api(ak: str, ru: str, tp: str)->tda.Client:
         with webdriver.Chrome() as driver:
             c = a.client_from_login_flow(driver, ak, ru, tp)
     return c
+
+def read_ff_csvs(path: str):
+    try:
+        df = pd.read_csv(path, skiprows=3, index_col=0) # Read CSV, skip the intro text in the csv
+        df.drop(index=df.index[-1], axis=0, inplace=True) # drop the "Copyright" row at the bottom
+        df.index = pd.to_datetime(df.index, format='%Y%m%d') # Format the date column(index) into a datetime object
+
+        # Add a 06:00:00 to the datetime so you can inner-join the dataframe to the API Data
+        time_delta = pd.to_timedelta('06:00:00')
+        df.index = df.index + time_delta
+        
+    except FileNotFoundError as e:
+        print(e)
     
-def get_price_history_df(self, c: tda.client.Client, symbol: str, periods: str, start: dt.datetime, end: dt.datetime)->pd.DataFrame: # Calls API for Historical Data of a Symbol
+    return df
+
+def get_candles_as_df(c: tda.client.Client, symbol: str, periods: str, start: dt.datetime, end: dt.datetime)->pd.DataFrame:
     data = None
     if periods == '1m':
         data = c.get_price_history_every_minute(symbol, start_datetime=start, end_datetime=end).json()['candles']
-    elif self.periods == '5m':
+    elif periods == '5m':
         data = c.get_price_history_every_five_minutes(symbol, start_datetime=start, end_datetime=end).json()['candles']
     elif periods == '10m':
         data = c.get_price_history_every_ten_minutes(symbol, start_datetime=start, end_datetime=end).json()['candles']
@@ -53,11 +68,3 @@ def get_price_history_df(self, c: tda.client.Client, symbol: str, periods: str, 
     else:
         print('data is not a list, refactor')
         exit()
-
-def read_ff_csvs(path: str):
-    try:
-        df = pd.read_csv(path)
-    except FileNotFoundError as e:
-        print(e)
-
-

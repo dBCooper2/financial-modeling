@@ -1,4 +1,4 @@
-# financial-modelling: Financial Data Analysis in Python
+# financial-modeling: Financial Data Analysis in Python
 
 This is an update to the old repository, dBI(https://github.com/dBCooper2/dBI) that introduces venvs to have a more stable programming environment so I'm not breaking things constantly
 
