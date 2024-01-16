@@ -1,0 +1,307 @@
+Description 	Symbol 	Unicode 	Hex Code 	HTML Code 	HTML Entity 	CSS Code
+Plus Sign 	+  	U+0002B 	&#x2b; 	&#43; 	&plus; 	\002B
+Minus Sign 	−  	U+02212 	&#x2212; 	&#8722; 	&minus; 	\2212
+Multiplication Sign 	×  	U+000D7 	&#xd7; 	&#215; 	&times; 	\00D7
+Division Sign 	÷  	U+000F7 	&#xf7; 	&#247; 	&divide; 	\00F7
+Equal Sign 	=  	U+0003D 	&#x3d; 	&#61; 	&equals; 	\003D
+Not Equal To Sign 	≠  	U+02260 	&#x2260; 	&#8800; 	&ne; 	\2260
+Plus or Minus Sign 	±  	U+000B1 	&#xb1; 	&#177; 	&plusmn; 	\00B1
+Not Sign 	¬  	U+000AC 	&#xac; 	&#172; 	&not; 	\00AC
+Less-Than Sign 	<  	U+0003C 	&#x3c; 	&#60; 	&lt; 	\003C
+Greater-Than Sign 	>  	U+0003E 	&#x3e; 	&#62; 	&gt; 	\003E
+Equal to or Less-Than Sign 	⋜  	U+022DC 	&#x22DC; 	&#8924; 		\22DC
+Equal to or Greater-Than Sign 	⋝  	U+022DD 	&#x22DD; 	&#8925; 		\22DD
+Degree Sign 	°  	U+000B0 	&#xb0; 	&#176; 	&deg; 	\00B0
+Superscript One 	¹  	U+000B9 	&#xb9; 	&#185; 	&sup1; 	\00B9
+Superscript Two 	²  	U+000B2 	&#xb2; 	&#178; 	&sup2; 	\00B2
+Superscript Three 	³  	U+000B3 	&#xb3; 	&#179; 	&sup3; 	\00B3
+Function 	ƒ  	U+00192 	&#x192; 	&#402; 	&fnof; 	\0192
+Percent Sign 	%  	U+00025 	&#x25; 	&#37; 	&percnt; 	\0025
+Per Mille Sign 	‰  	U+00089 	&#x89; 	&#137; 	&permil; 	\0089
+Per Ten Thousand Sign 	‱  	U+02031 	&#x2031; 	&#8241; 	&pertenk; 	\2031
+For All 	∀  	U+02200 	&#x2200; 	&#8704; 	&forall; 	\2200
+Complement 	∁  	U+02201 	&#x2201; 	&#8705; 	&comp; 	\2201
+Partial Differential 	∂  	U+02202 	&#x2202; 	&#8706; 	&part; 	\2202
+There Exists 	∃  	U+02203 	&#x2203; 	&#8707; 	&exist; 	\2203
+There Does Not Exist 	∄  	U+02204 	&#x2204; 	&#8708; 	&nexist; 	\2204
+Empty Set 	∅  	U+02205 	&#x2205; 	&#8709; 	&empty; 	\2205
+Increment 	∆  	U+02206 	&#x2206; 	&#8710; 		\2206
+Nabla 	∇  	U+02207 	&#x2207; 	&#8711; 	&nabla; 	\2207
+Element Of 	∈  	U+02208 	&#x2208; 	&#8712; 	&isin; 	\2208
+Not an Element Of 	∉  	U+02209 	&#x2209; 	&#8713; 	&notin; 	\2209
+Small Element Of 	∊  	U+0220A 	&#x220A; 	&#8714; 		\220A
+Contains as Member 	∋  	U+0220B 	&#x220B; 	&#8715; 	&ni; 	\220B
+Does Not Contain as Member 	∌  	U+0220C 	&#x220C; 	&#8716; 	&notni; 	\220C
+Small Contains as Member 	∍  	U+0220D 	&#x220D; 	&#8717; 		\220D
+End of Proof 	∎  	U+0220E 	&#x220E; 	&#8718; 		\220E
+N-Ary Product 	∏  	U+0220F 	&#x220F; 	&#8719; 	&prod; 	\220F
+N-Ary Coproduct 	∐  	U+02210 	&#x2210; 	&#8720; 	&coprod; 	\2210
+N-Ary Summation 	∑  	U+02211 	&#x2211; 	&#8721; 	&sum; 	\2211
+Minus-or-Plus Sign 	∓  	U+02213 	&#x2213; 	&#8723; 	&mnplus; 	\2213
+Dot Plus 	∔  	U+02214 	&#x2214; 	&#8724; 	&plusdo; 	\2214
+Division Slash 	∕  	U+02215 	&#x2215; 	&#8725; 		\2215
+Set Minus 	∖  	U+02216 	&#x2216; 	&#8726; 	&setminus; 	\2216
+Asterisk Operator 	∗  	U+02217 	&#x2217; 	&#8727; 	&lowast; 	\2217
+Ring Operator 	∘  	U+02218 	&#x2218; 	&#8728; 	&compfn; 	\2218
+Bullet Operator 	∙  	U+02219 	&#x2219; 	&#8729; 		\2219
+Square Root 	√  	U+0221A 	&#x221A; 	&#8730; 	&radic; 	\221A
+Cube Root 	∛  	U+0221B 	&#x221B; 	&#8731; 		\221B
+Fourth Root 	∜  	U+0221C 	&#x221C; 	&#8732; 		\221C
+Proportional To 	∝  	U+0221D 	&#x221D; 	&#8733; 	&prop; 	\221D
+Infinity 	∞  	U+0221E 	&#x221E; 	&#8734; 	&infin; 	\221E
+Right Angle 	∟  	U+0221F 	&#x221F; 	&#8735; 	&angrt; 	\221F
+Angle 	∠  	U+02220 	&#x2220; 	&#8736; 	&ang; 	\2220
+Measured Angle 	∡  	U+02221 	&#x2221; 	&#8737; 	&angmsd; 	\2221
+Spherical Angle 	∢  	U+02222 	&#x2222; 	&#8738; 	&angsph; 	\2222
+Divides 	∣  	U+02223 	&#x2223; 	&#8739; 	&mid; 	\2223
+Does Not Divide 	∤  	U+02224 	&#x2224; 	&#8740; 	&nmid; 	\2224
+Parallel To 	∥  	U+02225 	&#x2225; 	&#8741; 	&parallel; 	\2225
+Not Parallel To 	∦  	U+02226 	&#x2226; 	&#8742; 	&npar; 	\2226
+Logical And 	∧  	U+02227 	&#x2227; 	&#8743; 	&and; 	\2227
+Logical Or 	∨  	U+02228 	&#x2228; 	&#8744; 	&or; 	\2228
+Intersection 	∩  	U+02229 	&#x2229; 	&#8745; 	&cap; 	\2229
+Union 	∪  	U+0222A 	&#x222A; 	&#8746; 	&cup; 	\222A
+Integral 	∫  	U+0222B 	&#x222B; 	&#8747; 	&int; 	\222B
+Double Integral 	∬  	U+0222C 	&#x222C; 	&#8748; 	&Int; 	\222C
+Triple Integral 	∭  	U+0222D 	&#x222D; 	&#8749; 	&iiint; 	\222D
+Contour Integral 	∮  	U+0222E 	&#x222E; 	&#8750; 	&conint; 	\222E
+Surface Integral 	∯  	U+0222F 	&#x222F; 	&#8751; 	&Conint; 	\222F
+Volume Integral 	∰  	U+02230 	&#x2230; 	&#8752; 	&Cconint; 	\2230
+Clockwise Integral 	∱  	U+02231 	&#x2231; 	&#8753; 	&cwint; 	\2231
+Clockwise Contour Integral 	∲  	U+02232 	&#x2232; 	&#8754; 	&cwconint; 	\2232
+Anticlockwise Contour Integral 	∳  	U+02233 	&#x2233; 	&#8755; 	&awconint; 	\2233
+Therefore 	∴  	U+02234 	&#x2234; 	&#8756; 	&there4; 	\2234
+Because 	∵  	U+02235 	&#x2235; 	&#8757; 	&because; 	\2235
+Ratio 	∶  	U+02236 	&#x2236; 	&#8758; 	&ratio; 	\2236
+Proportion 	∷  	U+02237 	&#x2237; 	&#8759; 	&Colon; 	\2237
+Dot Minus 	∸  	U+02238 	&#x2238; 	&#8760; 	&minusd; 	\2238
+Excess 	∹  	U+02239 	&#x2239; 	&#8761; 		\2239
+Geometric Proportion 	∺  	U+0223A 	&#x223A; 	&#8762; 	&mDDot; 	\223A
+Homothetic 	∻  	U+0223B 	&#x223B; 	&#8763; 	&homtht; 	\223B
+Tilde Operator 	∼  	U+0223C 	&#x223C; 	&#8764; 	&sim; 	\223C
+Reversed Tilde 	∽  	U+0223D 	&#x223D; 	&#8765; 	&bsim; 	\223D
+Inverted Lazy S 	∾  	U+0223E 	&#x223E; 	&#8766; 	&ac; 	\223E
+Sine Wave 	∿  	U+0223F 	&#x223F; 	&#8767; 	&acd; 	\223F
+Wreath Product 	≀  	U+02240 	&#x2240; 	&#8768; 	&wreath; 	\2240
+Not Tilde 	≁  	U+02241 	&#x2241; 	&#8769; 	&nsim; 	\2241
+Minus Tilde 	≂  	U+02242 	&#x2242; 	&#8770; 	&esim; 	\2242
+Asymptotically Equal To 	≃  	U+02243 	&#x2243; 	&#8771; 	&sime; 	\2243
+Not Asymptotically Equal To 	≄  	U+02244 	&#x2244; 	&#8772; 	&nsime; 	\2244
+Approximately Equal To 	≅  	U+02245 	&#x2245; 	&#8773; 	&cong; 	\2245
+Approximately but Not Actually Equal To 	≆  	U+02246 	&#x2246; 	&#8774; 	&simne; 	\2246
+Neither Approximately Nor Actually Equal To 	≇  	U+02247 	&#x2247; 	&#8775; 	&ncong; 	\2247
+Almost Equal To 	≈  	U+02248 	&#x2248; 	&#8776; 	&asymp; 	\2248
+Not Almost Equal To 	≉  	U+02249 	&#x2249; 	&#8777; 	&nap; 	\2249
+Almost Equal or Equal To 	≊  	U+0224A 	&#x224A; 	&#8778; 	&approxeq; 	\224A
+Triple Tilde 	≋  	U+0224B 	&#x224B; 	&#8779; 	&apid; 	\224B
+All Equal To 	≌  	U+0224C 	&#x224C; 	&#8780; 	&bcong; 	\224C
+Equivalent To 	≍  	U+0224D 	&#x224D; 	&#8781; 	&asympeq; 	\224D
+Geometrically Equivalent To 	≎  	U+0224E 	&#x224E; 	&#8782; 	&bump; 	\224E
+Difference Between 	≏  	U+0224F 	&#x224F; 	&#8783; 	&bumpe; 	\224F
+Approaches the Limit 	≐  	U+02250 	&#x2250; 	&#8784; 	&esdot; 	\2250
+Geometrically Equal To 	≑  	U+02251 	&#x2251; 	&#8785; 	&eDot; 	\2251
+Approximately Equal to or the Image Of 	≒  	U+02252 	&#x2252; 	&#8786; 	&efDot; 	\2252
+Image of or Approximately Equal To 	≓  	U+02253 	&#x2253; 	&#8787; 	&erDot; 	\2253
+Colon Equals 	≔  	U+02254 	&#x2254; 	&#8788; 	&colone; 	\2254
+Equals Colon 	≕  	U+02255 	&#x2255; 	&#8789; 	&ecolon; 	\2255
+Ring in Equal To 	≖  	U+02256 	&#x2256; 	&#8790; 	&ecir; 	\2256
+Ring Equal To 	≗  	U+02257 	&#x2257; 	&#8791; 	&cire; 	\2257
+Corresponds To 	≘  	U+02258 	&#x2258; 	&#8792; 		\2258
+Estimates 	≙  	U+02259 	&#x2259; 	&#8793; 	&wedgeq; 	\2259
+Equiangular To 	≚  	U+0225A 	&#x225A; 	&#8794; 	&veeeq; 	\225A
+Star Equals 	≛  	U+0225B 	&#x225B; 	&#8795; 		\225B
+Delta Equal To 	≜  	U+0225C 	&#x225C; 	&#8796; 	&trie; 	\225C
+Equal to by Definition 	≝  	U+0225D 	&#x225D; 	&#8797; 		\225D
+Measured By 	≞  	U+0225E 	&#x225E; 	&#8798; 		\225E
+Questioned Equal To 	≟  	U+0225F 	&#x225F; 	&#8799; 	&equest; 	\225F
+Identical To 	≡  	U+02261 	&#x2261; 	&#8801; 	&equiv; 	\2261
+Not Identical To 	≢  	U+02262 	&#x2262; 	&#8802; 	&nequiv; 	\2262
+Strictly Equivalent To 	≣  	U+02263 	&#x2263; 	&#8803; 		\2263
+Less-Than or Equal To 	≤  	U+02264 	&#x2264; 	&#8804; 	&le; 	\2264
+Greater-Than or Equal To 	≥  	U+02265 	&#x2265; 	&#8805; 	&ge; 	\2265
+Less-Than Over Equal To 	≦  	U+02266 	&#x2266; 	&#8806; 	&lE; 	\2266
+Greater-Than Over Equal To 	≧  	U+02267 	&#x2267; 	&#8807; 	&gE; 	\2267
+Less-Than but Not Equal To 	≨  	U+02268 	&#x2268; 	&#8808; 	&lnE; 	\2268
+Greater-Than but Not Equal To 	≩  	U+02269 	&#x2269; 	&#8809; 	&gnE; 	\2269
+Much Less-Than 	≪  	U+0226A 	&#x226A; 	&#8810; 	&Lt; 	\226A
+Much Greater-Than 	≫  	U+0226B 	&#x226B; 	&#8811; 	&Gt; 	\226B
+Between 	≬  	U+0226C 	&#x226C; 	&#8812; 	&between; 	\226C
+Not Equivalent To 	≭  	U+0226D 	&#x226D; 	&#8813; 	&NotCupCap; 	\226D
+Not Less-Than 	≮  	U+0226E 	&#x226E; 	&#8814; 	&nlt; 	\226E
+Not Greater-Than 	≯  	U+0226F 	&#x226F; 	&#8815; 	&ngt; 	\226F
+Neither Less-Than Nor Equal To 	≰  	U+02270 	&#x2270; 	&#8816; 	&nle; 	\2270
+Neither Greater-Than Nor Equal To 	≱  	U+02271 	&#x2271; 	&#8817; 	&nge; 	\2271
+Less-Than or Equivalent To 	≲  	U+02272 	&#x2272; 	&#8818; 	&lsim; 	\2272
+Greater-Than or Equivalent To 	≳  	U+02273 	&#x2273; 	&#8819; 	&gsim; 	\2273
+Neither Less-Than Nor Equivalent To 	≴  	U+02274 	&#x2274; 	&#8820; 	&nlsim; 	\2274
+Neither Greater-Than Nor Equivalent To 	≵  	U+02275 	&#x2275; 	&#8821; 	&ngsim; 	\2275
+Less-Than or Greater-Than 	≶  	U+02276 	&#x2276; 	&#8822; 	&lg; 	\2276
+Greater-Than or Less-Than 	≷  	U+02277 	&#x2277; 	&#8823; 	&gl; 	\2277
+Neither Less-Than Nor Greater-Than 	≸  	U+02278 	&#x2278; 	&#8824; 	&ntlg; 	\2278
+Neither Greater-Than Nor Less-Than 	≹  	U+02279 	&#x2279; 	&#8825; 	&ntgl; 	\2279
+Precedes 	≺  	U+0227A 	&#x227A; 	&#8826; 	&pr; 	\227A
+Succeeds 	≻  	U+0227B 	&#x227B; 	&#8827; 	&sc; 	\227B
+Precedes or Equal To 	≼  	U+0227C 	&#x227C; 	&#8828; 	&prcue; 	\227C
+Succeeds or Equal To 	≽  	U+0227D 	&#x227D; 	&#8829; 	&sccue; 	\227D
+Precedes or Equivalent To 	≾  	U+0227E 	&#x227E; 	&#8830; 	&prsim; 	\227E
+Succeeds or Equivalent To 	≿  	U+0227F 	&#x227F; 	&#8831; 	&scsim; 	\227F
+Does Not Precede 	⊀  	U+02280 	&#x2280; 	&#8832; 	&npr; 	\2280
+Does Not Succeed 	⊁  	U+02281 	&#x2281; 	&#8833; 	&nsc; 	\2281
+Subset Of 	⊂  	U+02282 	&#x2282; 	&#8834; 	&sub; 	\2282
+Superset Of 	⊃  	U+02283 	&#x2283; 	&#8835; 	&sup; 	\2283
+Not a Subset Of 	⊄  	U+02284 	&#x2284; 	&#8836; 	&nsub; 	\2284
+Not a Superset Of 	⊅  	U+02285 	&#x2285; 	&#8837; 	&nsup; 	\2285
+Subset of or Equal To 	⊆  	U+02286 	&#x2286; 	&#8838; 	&sube; 	\2286
+Superset of or Equal To 	⊇  	U+02287 	&#x2287; 	&#8839; 	&supe; 	\2287
+Neither a Subset of Nor Equal To 	⊈  	U+02288 	&#x2288; 	&#8840; 	&nsube; 	\2288
+Neither a Superset of Nor Equal To 	⊉  	U+02289 	&#x2289; 	&#8841; 	&nsupe; 	\2289
+Subset of With Not Equal To 	⊊  	U+0228A 	&#x228A; 	&#8842; 	&subne; 	\228A
+Superset of With Not Equal To 	⊋  	U+0228B 	&#x228B; 	&#8843; 	&supne; 	\228B
+Multiset 	⊌  	U+0228C 	&#x228C; 	&#8844; 		\228C
+Multiset Multiplication 	⊍  	U+0228D 	&#x228D; 	&#8845; 	&cupdot; 	\228D
+Multiset Union 	⊎  	U+0228E 	&#x228E; 	&#8846; 	&uplus; 	\228E
+Square Image Of 	⊏  	U+0228F 	&#x228F; 	&#8847; 	&sqsub; 	\228F
+Square Original Of 	⊐  	U+02290 	&#x2290; 	&#8848; 	&sqsup; 	\2290
+Square Image of or Equal To 	⊑  	U+02291 	&#x2291; 	&#8849; 	&sqsube; 	\2291
+Square Original of or Equal To 	⊒  	U+02292 	&#x2292; 	&#8850; 	&sqsupe; 	\2292
+Square Cap 	⊓  	U+02293 	&#x2293; 	&#8851; 	&sqcap; 	\2293
+Square Cup 	⊔  	U+02294 	&#x2294; 	&#8852; 	&sqcup; 	\2294
+Circled Plus 	⊕  	U+02295 	&#x2295; 	&#8853; 	&oplus; 	\2295
+Circled Minus 	⊖  	U+02296 	&#x2296; 	&#8854; 	&ominus; 	\2296
+Circled Times 	⊗  	U+02297 	&#x2297; 	&#8855; 	&otimes; 	\2297
+Circled Division Slash 	⊘  	U+02298 	&#x2298; 	&#8856; 	&osol; 	\2298
+Circled Dot Operator 	⊙  	U+02299 	&#x2299; 	&#8857; 	&odot; 	\2299
+Circled Ring Operator 	⊚  	U+0229A 	&#x229A; 	&#8858; 	&ocir; 	\229A
+Circled Asterisk Operator 	⊛  	U+0229B 	&#x229B; 	&#8859; 	&oast; 	\229B
+Circled Equals 	⊜  	U+0229C 	&#x229C; 	&#8860; 		\229C
+Circled Dash 	⊝  	U+0229D 	&#x229D; 	&#8861; 	&odash; 	\229D
+Squared Plus 	⊞  	U+0229E 	&#x229E; 	&#8862; 	&plusb; 	\229E
+Squared Minus 	⊟  	U+0229F 	&#x229F; 	&#8863; 	&minusb; 	\229F
+Squared Times 	⊠  	U+022A0 	&#x22A0; 	&#8864; 	&timesb; 	\22A0
+Squared Dot Operator 	⊡  	U+022A1 	&#x22A1; 	&#8865; 	&sdotb; 	\22A1
+Right Tack 	⊢  	U+022A2 	&#x22A2; 	&#8866; 	&vdash; 	\22A2
+Left Tack 	⊣  	U+022A3 	&#x22A3; 	&#8867; 	&dashv; 	\22A3
+Down Tack 	⊤  	U+022A4 	&#x22A4; 	&#8868; 	&top; 	\22A4
+Up Tack 	⊥  	U+022A5 	&#x22A5; 	&#8869; 	&perp; 	\22A5
+Assertion 	⊦  	U+022A6 	&#x22A6; 	&#8870; 		\22A6
+Models 	⊧  	U+022A7 	&#x22A7; 	&#8871; 	&models; 	\22A7
+TRUE 	⊨  	U+022A8 	&#x22A8; 	&#8872; 	&vDash; 	\22A8
+Forces 	⊩  	U+022A9 	&#x22A9; 	&#8873; 	&Vdash; 	\22A9
+Triple Vertical Bar Right Turnstile 	⊪  	U+022AA 	&#x22AA; 	&#8874; 	&Vvdash; 	\22AA
+Double Vertical Bar Double Right Turnstile 	⊫  	U+022AB 	&#x22AB; 	&#8875; 	&VDash; 	\22AB
+Does Not Prove 	⊬  	U+022AC 	&#x22AC; 	&#8876; 	&nvdash; 	\22AC
+Not True 	⊭  	U+022AD 	&#x22AD; 	&#8877; 	&nvDash; 	\22AD
+Does Not Force 	⊮  	U+022AE 	&#x22AE; 	&#8878; 	&nVdash; 	\22AE
+Negated Double Vertical Bar Double Right Turnstile 	⊯  	U+022AF 	&#x22AF; 	&#8879; 	&nVDash; 	\22AF
+Precedes Under Relation 	⊰  	U+022B0 	&#x22B0; 	&#8880; 	&prurel; 	\22B0
+Succeeds Under Relation 	⊱  	U+022B1 	&#x22B1; 	&#8881; 		\22B1
+Normal Subgroup Of 	⊲  	U+022B2 	&#x22B2; 	&#8882; 	&vltri; 	\22B2
+Contains as Normal Subgroup 	⊳  	U+022B3 	&#x22B3; 	&#8883; 	&vrtri; 	\22B3
+Normal Subgroup of or Equal To 	⊴  	U+022B4 	&#x22B4; 	&#8884; 	&ltrie; 	\22B4
+Contains as Normal Subgroup or Equal To 	⊵  	U+022B5 	&#x22B5; 	&#8885; 	&rtrie; 	\22B5
+Original Of 	⊶  	U+022B6 	&#x22B6; 	&#8886; 	&origof; 	\22B6
+Image Of 	⊷  	U+022B7 	&#x22B7; 	&#8887; 	&imof; 	\22B7
+Multimap 	⊸  	U+022B8 	&#x22B8; 	&#8888; 	&mumap; 	\22B8
+Hermitian Conjugate Matrix 	⊹  	U+022B9 	&#x22B9; 	&#8889; 	&hercon; 	\22B9
+Intercalate 	⊺  	U+022BA 	&#x22BA; 	&#8890; 	&intcal; 	\22BA
+Xor 	⊻  	U+022BB 	&#x22BB; 	&#8891; 	&veebar; 	\22BB
+Nand 	⊼  	U+022BC 	&#x22BC; 	&#8892; 		\22BC
+Nor 	⊽  	U+022BD 	&#x22BD; 	&#8893; 	&barvee; 	\22BD
+Right Angle With Arc 	⊾  	U+022BE 	&#x22BE; 	&#8894; 	&angrtvb; 	\22BE
+Right Triangle 	⊿  	U+022BF 	&#x22BF; 	&#8895; 	&lrtri; 	\22BF
+N-Ary Logical And 	⋀  	U+022C0 	&#x22C0; 	&#8896; 	&xwedge; 	\22C0
+N-Ary Logical Or 	⋁  	U+022C1 	&#x22C1; 	&#8897; 	&xvee; 	\22C1
+N-Ary Intersection 	⋂  	U+022C2 	&#x22C2; 	&#8898; 	&xcap; 	\22C2
+N-Ary Union 	⋃  	U+022C3 	&#x22C3; 	&#8899; 	&xcup; 	\22C3
+Diamond Operator 	⋄  	U+022C4 	&#x22C4; 	&#8900; 	&diamond; 	\22C4
+Dot Operator 	⋅  	U+022C5 	&#x22C5; 	&#8901; 	&sdot; 	\22C5
+Star Operator 	⋆  	U+022C6 	&#x22C6; 	&#8902; 	&Star; 	\22C6
+Division Times 	⋇  	U+022C7 	&#x22C7; 	&#8903; 	&divonx; 	\22C7
+Bowtie 	⋈  	U+022C8 	&#x22C8; 	&#8904; 	&bowtie; 	\22C8
+Left Normal Factor Semidirect Product 	⋉  	U+022C9 	&#x22C9; 	&#8905; 	&ltimes; 	\22C9
+Right Normal Factor Semidirect Product 	⋊  	U+022CA 	&#x22CA; 	&#8906; 	&rtimes; 	\22CA
+Left Semidirect Product 	⋋  	U+022CB 	&#x22CB; 	&#8907; 	&lthree; 	\22CB
+Right Semidirect Product 	⋌  	U+022CC 	&#x22CC; 	&#8908; 	&rthree; 	\22CC
+Reversed Tilde Equals 	⋍  	U+022CD 	&#x22CD; 	&#8909; 	&bsime; 	\22CD
+Curly Logical Or 	⋎  	U+022CE 	&#x22CE; 	&#8910; 	&cuvee; 	\22CE
+Curly Logical And 	⋏  	U+022CF 	&#x22CF; 	&#8911; 	&cuwed; 	\22CF
+Double Subset 	⋐  	U+022D0 	&#x22D0; 	&#8912; 	&Sub; 	\22D0
+Double Superset 	⋑  	U+022D1 	&#x22D1; 	&#8913; 	&Sup; 	\22D1
+Double Intersection 	⋒  	U+022D2 	&#x22D2; 	&#8914; 	&Cap; 	\22D2
+Double Union 	⋓  	U+022D3 	&#x22D3; 	&#8915; 	&Cup; 	\22D3
+Pitchfork 	⋔  	U+022D4 	&#x22D4; 	&#8916; 	&fork; 	\22D4
+Equal and Parallel To 	⋕  	U+022D5 	&#x22D5; 	&#8917; 	&epar; 	\22D5
+Less-Than With Dot 	⋖  	U+022D6 	&#x22D6; 	&#8918; 	&ltdot; 	\22D6
+Greater-Than With Dot 	⋗  	U+022D7 	&#x22D7; 	&#8919; 	&gtdot; 	\22D7
+Very Much Less-Than 	⋘  	U+022D8 	&#x22D8; 	&#8920; 	&Ll; 	\22D8
+Very Much Greater-Than 	⋙  	U+022D9 	&#x22D9; 	&#8921; 	&Gg; 	\22D9
+Less-Than Equal to or Greater-Than 	⋚  	U+022DA 	&#x22DA; 	&#8922; 	&leg; 	\22DA
+Greater-Than Equal to or Less-Than 	⋛  	U+022DB 	&#x22DB; 	&#8923; 	&gel; 	\22DB
+Equal to or Precedes 	⋞  	U+022DE 	&#x22DE; 	&#8926; 	&cuepr; 	\22DE
+Equal to or Succeeds 	⋟  	U+022DF 	&#x22DF; 	&#8927; 	&cuesc; 	\22DF
+Does Not Precede or Equal 	⋠  	U+022E0 	&#x22E0; 	&#8928; 	&nprcue; 	\22E0
+Does Not Succeed or Equal 	⋡  	U+022E1 	&#x22E1; 	&#8929; 	&nsccue; 	\22E1
+Not Square Image of or Equal To 	⋢  	U+022E2 	&#x22E2; 	&#8930; 	&nsqsube; 	\22E2
+Not Square Original of or Equal To 	⋣  	U+022E3 	&#x22E3; 	&#8931; 	&nsqsupe; 	\22E3
+Square Image of or Not Equal To 	⋤  	U+022E4 	&#x22E4; 	&#8932; 		\22E4
+Square Original of or Not Equal To 	⋥  	U+022E5 	&#x22E5; 	&#8933; 		\22E5
+Less-Than but Not Equivalent To 	⋦  	U+022E6 	&#x22E6; 	&#8934; 	&lnsim; 	\22E6
+Greater-Than but Not Equivalent To 	⋧  	U+022E7 	&#x22E7; 	&#8935; 	&gnsim; 	\22E7
+Precedes but Not Equivalent To 	⋨  	U+022E8 	&#x22E8; 	&#8936; 	&prnsim; 	\22E8
+Succeeds but Not Equivalent To 	⋩  	U+022E9 	&#x22E9; 	&#8937; 	&scnsim; 	\22E9
+Not Normal Subgroup Of 	⋪  	U+022EA 	&#x22EA; 	&#8938; 	&nltri; 	\22EA
+Does Not Contain as Normal Subgroup 	⋫  	U+022EB 	&#x22EB; 	&#8939; 	&nrtri; 	\22EB
+Not Normal Subgroup of or Equal To 	⋬  	U+022EC 	&#x22EC; 	&#8940; 	&nltrie; 	\22EC
+Does Not Contain as Normal Subgroup or Equal 	⋭  	U+022ED 	&#x22ED; 	&#8941; 	&nrtrie; 	\22ED
+Vertical Ellipsis 	⋮  	U+022EE 	&#x22EE; 	&#8942; 	&vellip; 	\22EE
+Midline Horizontal Ellipsis 	⋯  	U+022EF 	&#x22EF; 	&#8943; 	&ctdot; 	\22EF
+Up Right Diagonal Ellipsis 	⋰  	U+022F0 	&#x22F0; 	&#8944; 	&utdot; 	\22F0
+Down Right Diagonal Ellipsis 	⋱  	U+022F1 	&#x22F1; 	&#8945; 	&dtdot; 	\22F1
+Element of With Long Horizontal Stroke 	⋲  	U+022F2 	&#x22F2; 	&#8946; 	&disin; 	\22F2
+Element of With Vertical Bar at End of Horizontal Stroke 	⋳  	U+022F3 	&#x22F3; 	&#8947; 	&isinsv; 	\22F3
+Small Element of With Vertical Bar at End of Horizontal Stroke 	⋴  	U+022F4 	&#x22F4; 	&#8948; 	&isins; 	\22F4
+Element of With Dot Above 	⋵  	U+022F5 	&#x22F5; 	&#8949; 	&isindot; 	\22F5
+Element of With Overbar 	⋶  	U+022F6 	&#x22F6; 	&#8950; 	&notinvc; 	\22F6
+Small Element of With Overbar 	⋷  	U+022F7 	&#x22F7; 	&#8951; 	&notinvb; 	\22F7
+Element of With Underbar 	⋸  	U+022F8 	&#x22F8; 	&#8952; 		\22F8
+Element of With Two Horizontal Strokes 	⋹  	U+022F9 	&#x22F9; 	&#8953; 	&isinE; 	\22F9
+Contains With Long Horizontal Stroke 	⋺  	U+022FA 	&#x22FA; 	&#8954; 	&nisd; 	\22FA
+Contains With Vertical Bar at End of Horizontal Stroke 	⋻  	U+022FB 	&#x22FB; 	&#8955; 	&xnis; 	\22FB
+Small Contains With Vertical Bar at End of Horizontal Stroke 	⋼  	U+022FC 	&#x22FC; 	&#8956; 	&nis; 	\22FC
+Contains With Overbar 	⋽  	U+022FD 	&#x22FD; 	&#8957; 	&notnivc; 	\22FD
+Small Contains With Overbar 	⋾  	U+022FE 	&#x22FE; 	&#8958; 	&notnivb; 	\22FE
+Z Notation Bag Membership 	⋿  	U+022FF 	&#x22FF; 	&#8959; 		\22FF
+Superscript Zero 	⁰  	U+02070 	&#x2070; 	&#8304; 		\2070
+Superscript Latin Small Letter I 	ⁱ  	U+02071 	&#x2071; 	&#8305; 		\2071
+Superscript Four 	⁴  	U+02074 	&#x2074; 	&#8308; 		\2074
+Superscript Five 	⁵  	U+02075 	&#x2075; 	&#8309; 		\2075
+Superscript Six 	⁶  	U+02076 	&#x2076; 	&#8310; 		\2076
+Superscript Seven 	⁷  	U+02077 	&#x2077; 	&#8311; 		\2077
+Superscript Eight 	⁸  	U+02078 	&#x2078; 	&#8312; 		\2078
+Superscript Nine 	⁹  	U+02079 	&#x2079; 	&#8313; 		\2079
+Superscript Plus Sign 	⁺  	U+0207A 	&#x207A; 	&#8314; 		\207A
+Superscript Minus 	⁻  	U+0207B 	&#x207B; 	&#8315; 		\207B
+Superscript Equals Sign 	⁼  	U+0207C 	&#x207C; 	&#8316; 		\207C
+Superscript Left Parenthesis 	⁽  	U+0207D 	&#x207D; 	&#8317; 		\207D
+Superscript Right Parenthesis 	⁾  	U+0207E 	&#x207E; 	&#8318; 		\207E
+Superscript Latin Small Letter N 	ⁿ  	U+0207F 	&#x207F; 	&#8319; 		\207F
+Subscript Zero 	₀  	U+02080 	&#x2080; 	&#8320; 		\2080
+Subscript One 	₁  	U+02081 	&#x2081; 	&#8321; 		\2081
+Subscript Two 	₂  	U+02082 	&#x2082; 	&#8322; 		\2082
+Subscript Three 	₃  	U+02083 	&#x2083; 	&#8323; 		\2083
+Subscript Four 	₄  	U+02084 	&#x2084; 	&#8324; 		\2084
+Subscript Five 	₅  	U+02085 	&#x2085; 	&#8325; 		\2085
+Subscript Six 	₆  	U+02086 	&#x2086; 	&#8326; 		\2086
+Subscript Seven 	₇  	U+02087 	&#x2087; 	&#8327; 		\2087
+Subscript Eight 	₈  	U+02088 	&#x2088; 	&#8328; 		\2088
+Subscript Nine 	₉  	U+02089 	&#x2089; 	&#8329; 		\2089
+Subscript Plus Sign 	₊  	U+0208A 	&#x208A; 	&#8330; 		\208A
+Subscript Minus 	₋  	U+0208B 	&#x208B; 	&#8331; 		\208B
+Subscript Equals Sign 	₌  	U+0208C 	&#x208C; 	&#8332; 		\208C
+Subscript Left Parenthesis 	₍  	U+0208D 	&#x208D; 	&#8333; 		\208D
+Subscript Right Parenthesis 	₎  	U+0208E 	&#x208E; 	&#8334; 		\208E
+Latin Subscript Small Letter A 	ₐ  	U+02090 	&#x2090; 	&#8336; 		\2090
+Latin Subscript Small Letter E 	ₑ  	U+02091 	&#x2091; 	&#8337; 		\2091
+Latin Subscript Small Letter O 	ₒ  	U+02092 	&#x2092; 	&#8338; 		\2092
+Latin Subscript Small Letter X 	ₓ  	U+02093 	&#x2093; 	&#8339; 		\2093
+Latin Subscript Small Letter Schwa 	ₔ  	U+02094 	&#x2094; 	&#8340; 		\2094ƒpa
