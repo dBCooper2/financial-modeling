@@ -1,0 +1,11 @@
+Github Repo Structure
+
+- .env
+- docs: data, misc notes
+	- semiconductor_csvs: financial data for 30 semiconductor stocks pulled using yahoo finance
+- notebooks: jupyter notebooks to test features before adding them to projects
+- old_versions: old versions of the dBI code to draw from for interacting with the tda-api and TD Ameritrade Platform
+- projects: notebooks with a goal in mind
+	- machine_learning: Building an ML model from scratch
+	- portfolio_testing: Creating a test portfolio, tracking it and simulate trading
+
