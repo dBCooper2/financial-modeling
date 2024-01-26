@@ -4,7 +4,7 @@
 
 - Learn more about Portfolio Management, Measuring Performance and Backtesting
 - Watch Videos on Modern Portfolio Theory, Interpreting Portfolio Results, Comparing to Market, etc.
-    - Ex: What does it mean if the Sharpe Ratio is going up over time while the Treynor Measure is going down?
+  - Ex: What does it mean if the Sharpe Ratio is going up over time while the Treynor Measure is going down?
 
 ## Programming
 
@@ -19,4 +19,4 @@
 ## Presenting the Github Repo
 
 - ADD PICTURES TO THE README!!!
-    - Make The Repo Pop when a recruiter clicks on it
+  - Make The Repo Pop when a recruiter clicks on it
